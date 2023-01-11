@@ -1,6 +1,6 @@
 .POSIX:
 
-PREFIX = /usr/local
+PREFIX = "${HOME}"/.local
 CFLAGS = -Ofast
 LDLIBS = -lX11
 
