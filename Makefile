@@ -9,6 +9,8 @@ BIN = dwmblocks
 $(BIN): main.o
 	$(CC) $^ -o $@ $(LDLIBS)
 
+main.o: config.h
+
 clean:
 	$(RM) *.o $(BIN)
 
