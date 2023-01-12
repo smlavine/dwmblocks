@@ -1,3 +1,8 @@
+# [smlss](https://sr.ht/~smlavine/smlss)
+
+This is my custom configuration of dwmblocks. It is based on Utkarsh Verma's
+[dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async).
+
 # dwmblocks-async
 A modular statusbar for `dwm` written in C. You may think of it as `i3blocks`, but for `dwm`.
 
